@@ -5,5 +5,8 @@ function distance (x, ) {
   if  ( x < 5 ) {
     return 'close' ;
   }
+  if ( x > 999 ) {
+    return 'far';
+  }
 };
 
