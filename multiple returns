@@ -1,0 +1,9 @@
+function distance (x, ) {
+  if ( x === 0 ) {
+    return 'here';
+  }
+  if  ( x < 5 ) {
+    return 'close' ;
+  }
+};
+
